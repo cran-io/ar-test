@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 528ed7164bdd74a38909644d514754c6
+timeCreated: 1433120969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bone4
+    100002: bone5
+    100004: bone6
+    100006: bone7
+    100008: Camera1
+    100010: Camera_Interest1
+    100012: Camera_Root1
+    100014: cylinder20
+    100016: cylinder21
+    100018: cylinder22
+    100020: cylinder23
+    100022: cylinder24
+    100024: cylinder25
+    100026: cylinder26
+    100028: cylinder27
+    100030: cylinder28
+    100032: cylinder29
+    100034: cylinder30
+    100036: cylinder31
+    100038: cylinder32
+    100040: cylinder33
+    100042: cylinder34
+    100044: cylinder35
+    100046: cylinder36
+    100048: cylinder37
+    100050: cylinder38
+    100052: cylinder39
+    100054: cylinder64
+    100056: cylinder65
+    100058: cylinder66
+    100060: cylinder67
+    100062: eff4
+    100064: eff5
+    100066: eff6
+    100068: eff7
+    100070: engine
+    100072: //RootNode
+    100074: polymsh24
+    100076: polymsh25
+    100078: polymsh26
+    100080: polymsh27
+    100082: polymsh28
+    100084: polymsh29
+    100086: polymsh30
+    100088: polymsh31
+    100090: polymsh32
+    100092: polymsh33
+    100094: polymsh34
+    100096: polymsh_extracted4
+    100098: polymsh_extracted5
+    100100: polymsh_extracted6
+    100102: polymsh_extracted7
+    100104: root4
+    100106: root5
+    100108: root6
+    100110: root7
+    100112: Spot
+    100114: Spot1
+    100116: Spot2
+    100118: Spot_Interest
+    100120: Spot_Root
+    400000: bone4
+    400002: bone5
+    400004: bone6
+    400006: bone7
+    400008: Camera1
+    400010: Camera_Interest1
+    400012: Camera_Root1
+    400014: cylinder20
+    400016: cylinder21
+    400018: cylinder22
+    400020: cylinder23
+    400022: cylinder24
+    400024: cylinder25
+    400026: cylinder26
+    400028: cylinder27
+    400030: cylinder28
+    400032: cylinder29
+    400034: cylinder30
+    400036: cylinder31
+    400038: cylinder32
+    400040: cylinder33
+    400042: cylinder34
+    400044: cylinder35
+    400046: cylinder36
+    400048: cylinder37
+    400050: cylinder38
+    400052: cylinder39
+    400054: cylinder64
+    400056: cylinder65
+    400058: cylinder66
+    400060: cylinder67
+    400062: eff4
+    400064: eff5
+    400066: eff6
+    400068: eff7
+    400070: //RootNode
+    400072: engine
+    400074: polymsh24
+    400076: polymsh25
+    400078: polymsh26
+    400080: polymsh27
+    400082: polymsh28
+    400084: polymsh29
+    400086: polymsh30
+    400088: polymsh31
+    400090: polymsh32
+    400092: polymsh33
+    400094: polymsh34
+    400096: polymsh_extracted4
+    400098: polymsh_extracted5
+    400100: polymsh_extracted6
+    400102: polymsh_extracted7
+    400104: root4
+    400106: root5
+    400108: root6
+    400110: root7
+    400112: Spot
+    400114: Spot1
+    400116: Spot2
+    400118: Spot_Interest
+    400120: Spot_Root
+    2300000: cylinder20
+    2300002: cylinder21
+    2300004: cylinder22
+    2300006: cylinder23
+    2300008: cylinder24
+    2300010: cylinder25
+    2300012: cylinder26
+    2300014: cylinder27
+    2300016: cylinder28
+    2300018: cylinder29
+    2300020: cylinder30
+    2300022: cylinder31
+    2300024: cylinder32
+    2300026: cylinder33
+    2300028: cylinder34
+    2300030: cylinder35
+    2300032: cylinder36
+    2300034: cylinder37
+    2300036: cylinder38
+    2300038: cylinder39
+    2300040: cylinder64
+    2300042: cylinder65
+    2300044: cylinder66
+    2300046: cylinder67
+    2300048: polymsh24
+    2300050: polymsh25
+    2300052: polymsh26
+    2300054: polymsh27
+    2300056: polymsh28
+    2300058: polymsh29
+    2300060: polymsh30
+    2300062: polymsh31
+    2300064: polymsh32
+    2300066: polymsh33
+    2300068: polymsh34
+    2300070: polymsh_extracted4
+    2300072: polymsh_extracted5
+    2300074: polymsh_extracted6
+    2300076: polymsh_extracted7
+    3300000: cylinder20
+    3300002: cylinder21
+    3300004: cylinder22
+    3300006: cylinder23
+    3300008: cylinder24
+    3300010: cylinder25
+    3300012: cylinder26
+    3300014: cylinder27
+    3300016: cylinder28
+    3300018: cylinder29
+    3300020: cylinder30
+    3300022: cylinder31
+    3300024: cylinder32
+    3300026: cylinder33
+    3300028: cylinder34
+    3300030: cylinder35
+    3300032: cylinder36
+    3300034: cylinder37
+    3300036: cylinder38
+    3300038: cylinder39
+    3300040: cylinder64
+    3300042: cylinder65
+    3300044: cylinder66
+    3300046: cylinder67
+    3300048: polymsh24
+    3300050: polymsh25
+    3300052: polymsh26
+    3300054: polymsh27
+    3300056: polymsh28
+    3300058: polymsh29
+    3300060: polymsh30
+    3300062: polymsh31
+    3300064: polymsh32
+    3300066: polymsh33
+    3300068: polymsh34
+    3300070: polymsh_extracted4
+    3300072: polymsh_extracted5
+    3300074: polymsh_extracted6
+    3300076: polymsh_extracted7
+    4300000: polymsh24
+    4300002: cylinder20
+    4300004: cylinder21
+    4300006: cylinder22
+    4300008: polymsh25
+    4300010: cylinder23
+    4300012: cylinder24
+    4300014: cylinder25
+    4300016: polymsh26
+    4300018: cylinder26
+    4300020: cylinder27
+    4300022: cylinder28
+    4300024: polymsh27
+    4300026: cylinder29
+    4300028: cylinder30
+    4300030: cylinder31
+    4300032: polymsh28
+    4300034: cylinder32
+    4300036: polymsh_extracted4
+    4300038: polymsh29
+    4300040: cylinder33
+    4300042: polymsh_extracted5
+    4300044: polymsh30
+    4300046: cylinder34
+    4300048: polymsh_extracted6
+    4300050: polymsh31
+    4300052: cylinder35
+    4300054: polymsh_extracted7
+    4300056: polymsh32
+    4300058: cylinder36
+    4300060: cylinder37
+    4300062: cylinder38
+    4300064: cylinder39
+    4300066: polymsh33
+    4300068: polymsh34
+    4300070: cylinder64
+    4300072: cylinder65
+    4300074: cylinder66
+    4300076: cylinder67
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera_Root1
+        weight: 1
+      - path: Camera_Root1/Camera1
+        weight: 1
+      - path: Camera_Root1/Camera_Interest1
+        weight: 1
+      - path: engine
+        weight: 1
+      - path: engine/cylinder64
+        weight: 1
+      - path: engine/cylinder65
+        weight: 1
+      - path: engine/cylinder66
+        weight: 1
+      - path: engine/cylinder67
+        weight: 1
+      - path: engine/polymsh28
+        weight: 1
+      - path: engine/polymsh28/cylinder32
+        weight: 1
+      - path: engine/polymsh28/polymsh_extracted4
+        weight: 1
+      - path: engine/polymsh29
+        weight: 1
+      - path: engine/polymsh29/cylinder33
+        weight: 1
+      - path: engine/polymsh29/polymsh_extracted5
+        weight: 1
+      - path: engine/polymsh30
+        weight: 1
+      - path: engine/polymsh30/cylinder34
+        weight: 1
+      - path: engine/polymsh30/polymsh_extracted6
+        weight: 1
+      - path: engine/polymsh31
+        weight: 1
+      - path: engine/polymsh31/cylinder35
+        weight: 1
+      - path: engine/polymsh31/polymsh_extracted7
+        weight: 1
+      - path: engine/polymsh32
+        weight: 1
+      - path: engine/polymsh32/cylinder36
+        weight: 1
+      - path: engine/polymsh32/cylinder37
+        weight: 1
+      - path: engine/polymsh32/cylinder38
+        weight: 1
+      - path: engine/polymsh32/cylinder39
+        weight: 1
+      - path: engine/polymsh32/polymsh33
+        weight: 1
+      - path: engine/polymsh34
+        weight: 1
+      - path: engine/root4
+        weight: 1
+      - path: engine/root4/bone4
+        weight: 1
+      - path: engine/root4/bone4/eff4
+        weight: 1
+      - path: engine/root4/bone4/polymsh24
+        weight: 1
+      - path: engine/root4/bone4/polymsh24/cylinder20
+        weight: 1
+      - path: engine/root4/bone4/polymsh24/cylinder21
+        weight: 1
+      - path: engine/root4/bone4/polymsh24/cylinder22
+        weight: 1
+      - path: engine/root5
+        weight: 1
+      - path: engine/root5/bone5
+        weight: 1
+      - path: engine/root5/bone5/eff5
+        weight: 1
+      - path: engine/root5/bone5/polymsh25
+        weight: 1
+      - path: engine/root5/bone5/polymsh25/cylinder23
+        weight: 1
+      - path: engine/root5/bone5/polymsh25/cylinder24
+        weight: 1
+      - path: engine/root5/bone5/polymsh25/cylinder25
+        weight: 1
+      - path: engine/root6
+        weight: 1
+      - path: engine/root6/bone6
+        weight: 1
+      - path: engine/root6/bone6/eff6
+        weight: 1
+      - path: engine/root6/bone6/polymsh26
+        weight: 1
+      - path: engine/root6/bone6/polymsh26/cylinder26
+        weight: 1
+      - path: engine/root6/bone6/polymsh26/cylinder27
+        weight: 1
+      - path: engine/root6/bone6/polymsh26/cylinder28
+        weight: 1
+      - path: engine/root7
+        weight: 1
+      - path: engine/root7/bone7
+        weight: 1
+      - path: engine/root7/bone7/eff7
+        weight: 1
+      - path: engine/root7/bone7/polymsh27
+        weight: 1
+      - path: engine/root7/bone7/polymsh27/cylinder29
+        weight: 1
+      - path: engine/root7/bone7/polymsh27/cylinder30
+        weight: 1
+      - path: engine/root7/bone7/polymsh27/cylinder31
+        weight: 1
+      - path: Spot_Root
+        weight: 1
+      - path: Spot_Root/Spot
+        weight: 1
+      - path: Spot_Root/Spot1
+        weight: 1
+      - path: Spot_Root/Spot2
+        weight: 1
+      - path: Spot_Root/Spot_Interest
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
